@@ -70,5 +70,5 @@ let tempConverter = function (temp) {
 
 let tempFah = tempConverter(74)
 
-console.log(tempFah)
+console.log(tempFah.kelvin)
 
